@@ -1,0 +1,7 @@
+B:\Documents\Post-University\Programming\Databases\DBProject2019\DBProject2019\bin\Debug\DBProject2019.exe.config
+B:\Documents\Post-University\Programming\Databases\DBProject2019\DBProject2019\bin\Debug\DBProject2019.exe
+B:\Documents\Post-University\Programming\Databases\DBProject2019\DBProject2019\bin\Debug\DBProject2019.pdb
+B:\Documents\Post-University\Programming\Databases\DBProject2019\DBProject2019\obj\Debug\DBProject2019.csprojAssemblyReference.cache
+B:\Documents\Post-University\Programming\Databases\DBProject2019\DBProject2019\obj\Debug\DBProject2019.csproj.CoreCompileInputs.cache
+B:\Documents\Post-University\Programming\Databases\DBProject2019\DBProject2019\obj\Debug\DBProject2019.exe
+B:\Documents\Post-University\Programming\Databases\DBProject2019\DBProject2019\obj\Debug\DBProject2019.pdb
